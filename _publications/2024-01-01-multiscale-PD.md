@@ -2,7 +2,7 @@
 title: "A model with dopamine depletion in basal ganglia and cerebellum predicts changes in thalamocortical beta oscillations"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-multiscale-PD.md
+permalink: /publication/2024-01-01-multiscale-PD
 excerpt: 'We have developed a multiscale computational model of the rodent brain’s BG–cerebellar network. Simulations showed that a direct effect of dopamine depletion on the cerebellum must be taken into account to reproduce the alterations of neural activity in parkinsonism, particularly the increased beta oscillations widely reported in PD patients'
 date: 2024-01-01
 venue: 'International Journal of Neural Systems'
