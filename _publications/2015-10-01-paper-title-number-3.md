@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Linking Cellular-Level Phenomena to Brain Architecture: The Case of Spiking Cerebellar Controllers"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-spiking-cerebellar-controllers
+excerpt: "This work connects detailed cellular dynamics and large-scale network architecture by implementing spiking neural network models of cerebellar control circuits, highlighting how microcircuit features shape emergent network behavior."
+date: 2025-04-01
+venue: "Neural Networks"
+slidesurl: ""
+paperurl: "https://www.sciencedirect.com/science/article/pii/S0893608025004174"
+bibtexurl: ""
+citation: "D’Angelo, E., Antonietti, A., Gambosi, B., Geminiani, A., Casellato, C. (2025). Linking Cellular-Level Phenomena to Brain Architecture: The Case of Spiking Cerebellar Controllers. Neural Networks."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This article explores how spiking neural network models of cerebellar circuits can bridge cellular dynamics and global brain function. By simulating detailed microcircuit structure and synaptic interactions, we show how microscopic phenomena influence emergent behavior in larger networks, offering a computational pathway to understand cerebellar contributions to motor control and learning.
