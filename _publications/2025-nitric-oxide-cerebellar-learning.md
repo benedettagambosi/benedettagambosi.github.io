@@ -11,4 +11,4 @@ paperurl: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12165721/"
 bibtexurl: ""
 citation: "Trapani, A. M., Sartori, C. A., Gambosi, B., Pedrocchi, A., Antonietti, A. (2025). Modeling Nitric Oxide Diffusion and Plasticity Modulation in Cerebellar Learning. APL Bioengineering."
 ---
-We developed the NO Diffusion Simulator (NODS), a biologically realistic simulation framework to investigate how nitric oxide (NO) influences synaptic plasticity in cerebellar circuits during associative learning. Our simulations reveal that NO diffusion dynamically adjusts learning efficacy by modulating long-term potentiation and depression processes, offering insights into metaplastic mechanisms in cerebellar learning. :contentReference[oaicite:6]{index=6}
+We developed the NO Diffusion Simulator (NODS), a biologically realistic simulation framework to investigate how nitric oxide (NO) influences synaptic plasticity in cerebellar circuits during associative learning. Our simulations reveal that NO diffusion dynamically adjusts learning efficacy by modulating long-term potentiation and depression processes, offering insights into metaplastic mechanisms in cerebellar learning.
