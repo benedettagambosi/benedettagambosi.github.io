@@ -11,29 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bionegineering, Politecnico di Milano, 2026 (expected)
+* M.S. in Biomedical Engineering, Politecnico di Milano, 2021
+* B.S. in Biomedical Engineering, Politecnico di Milano, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2024 - Present: Research Fellow
+  * Bibilab, Sapienza University of Rome, Rome
+  * Supervisor: Prof. Laura Astolfi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2023 - July 2024: Visiting Researcher
+  * Brain Simulation Section, Charité, Berlin
+  * Supervisor: Prof. Petra Ritter
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2021 - Sept 2024: Research Fellow
+  * Nearlab, Politecnico di Milano, Milano
+  * Supervisor: Prof. Alessandra Pedrocchi
   
 Skills
 ======
+* Computational neuroscience & modeling
+  * neural mass models, spiking neural networks
+  * Modeling of motor control and neurodegenerative disorders 
+
+* Neural data analysis
+  * EEG acquisition and preprocessing
+  * Time–frequency and spectral analysis
+  * Functional and effective connectivity
+  * Network and graph-based analysis
+  * Hyperscanning and cross-brain analysis
+
+* Machine learning & AI
+  * Sci-kit Learn
+  * Pytorch, ANN,
+
+* Imaging & multimodal analysis
+  * fMRI, DTI   
+  * Functional ultrasound imaging (fUSI)–based analysis and simulations
+  * Multimodal data integration (electrophysiology and imaging)
+
+* Programming & tools
+  * Python 
+  * Matlab
+
+* Reproducible research workflows
+  * Translational & collaborative research
+  * Analysis of patient and clinical data
+  * Neurological and neurodevelopmental disorders (PD, epilepsy, autism)
+  * Experience in large collaborative projects (e.g. eBRAINS, Aegeus, CrossBrain)
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -59,6 +85,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
