@@ -60,12 +60,6 @@ Skills
   * Analysis of patient and clinical data
   * Neurological and neurodevelopmental disorders (PD, epilepsy, autism)
   * Experience in large collaborative projects (e.g. eBRAINS, Aegeus, CrossBrain)
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
