@@ -54,6 +54,8 @@ Skills
 * Programming & tools
   * Python 
   * Matlab
+  * Github
+  * Docker
 
 * Reproducible research workflows
   * Translational & collaborative research
