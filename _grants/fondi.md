@@ -4,6 +4,8 @@ collection: grants
 permalink: /grants/fondi/
 ---
 
+Recipient of institutional research funding supporting exploratory and pilot projects in multimodal neuroimaging and computational modeling.
+
 ## Functional Ultrasound for Seizure Evaluation: A Multimodal Approach Combining EEG and Computational Modeling  
 
 **Acronym:** FUSE  

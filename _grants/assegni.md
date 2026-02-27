@@ -4,6 +4,8 @@ collection: grants
 permalink: /grants/assegni
 ---
 
+Involvement in externally funded national and European research projects focused on computational neuroscience, brain data analysis, and translational applications.
+
 ## Network-Based Analysis of Multimodal Brain Data in Physiological and Pathological Conditions  
 
 **Funding:** PRIN 2020 – *ACT2: Acting Together: How Motor Styles Shape Action Prediction and Brain-to-Brain Connectivity in Typical and Autistic Populations*  

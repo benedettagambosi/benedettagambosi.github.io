@@ -4,6 +4,8 @@ collection: grants
 permalink: /grants/awards/
 ---
 
+Participation in selective training programs and events awarded through competitive evaluation processes at the national and international level.
+
 ## FENS – Chen Institute – NeuroLéman Summer School  
 **Motor Control: From Thought to Action**
 
