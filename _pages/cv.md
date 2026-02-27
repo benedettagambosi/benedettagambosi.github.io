@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -84,3 +84,8 @@ Grants & Fundings
   <ul>{% for post in site.grants reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <!-- <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a> -->
+</div>
