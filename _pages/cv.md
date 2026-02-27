@@ -81,3 +81,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Grants & Fundings
+======
+  <ul>{% for post in site.grants reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
