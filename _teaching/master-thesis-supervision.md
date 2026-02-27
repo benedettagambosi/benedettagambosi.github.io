@@ -8,9 +8,9 @@ date: 2023-10-01
 location: "Milan, Italy"
 ---
 
-I co-supervised and tutored Master’s thesis projects at the NEARLab, Politecnico di Milano, mentoring students throughout the full research process, from project definition and methodological design to experimental work and thesis writing.
+At NEARLab (Politecnico di Milano), I co-supervised Master’s thesis projects and worked closely with students as their ideas slowly turned into actual research. My role spanned everything from shaping early questions and choosing workable methods to navigating experiments, dead ends included, and pulling the final thesis together.
 
-I supervised five MSc students, fostering a research-oriented and inclusive environment and providing continuous feedback on scientific reasoning, technical implementation, and communication of results.
+Over time, I supervised five MSc students, aiming to build a research-oriented and inclusive environment. I provided regular, hands-on feedback on how to think scientifically, implement ideas in practice, and communicate results clearly: skills that matter well beyond a single thesis.
 
 ### Supervised thesis topics
 - A multiarea multiscale neurorobotic controller for Parkinson’s disease study (2022)
