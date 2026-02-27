@@ -32,7 +32,7 @@ Work experience
 Skills
 ======
 * Computational neuroscience & modeling
-  * neural mass models, spiking neural networks
+  * Neural Mass Models, Spiking Neural Networks
   * Modeling of motor control and neurodegenerative disorders 
 
 * Neural data analysis
@@ -44,7 +44,7 @@ Skills
 
 * Machine learning & AI
   * Sci-kit Learn
-  * Pytorch, ANN,
+  * Pytorch, ANN
 
 * Imaging & multimodal analysis
   * fMRI, DTI   
@@ -52,10 +52,8 @@ Skills
   * Multimodal data integration (electrophysiology and imaging)
 
 * Programming & tools
-  * Python 
-  * Matlab
-  * Github
-  * Docker
+  * Python, Matlab
+  * Github, Docker
 
 * Reproducible research workflows
   * Translational & collaborative research
