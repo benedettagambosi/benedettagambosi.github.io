@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Benedetta Gambosi"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bioengineer and computational neuroscientist working on multiscale brain modeling, EEG and network analysis, and data-driven approaches to neurological and neurodevelopmental disorders."
   location         : "Italy"
   employer         : "Sapienza University of Rome"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : benedettagambosi # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
