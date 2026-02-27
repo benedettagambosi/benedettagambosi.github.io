@@ -1,7 +1,7 @@
 ---
 title: "Awards & Competitive Schools"
 collection: grants
-permalink: grants/awards/
+permalink: /grants/awards/
 ---
 
 ## FENS – Chen Institute – NeuroLéman Summer School  

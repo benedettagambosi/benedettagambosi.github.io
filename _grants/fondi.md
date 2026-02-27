@@ -1,7 +1,7 @@
 ---
 title: "Institutional & Internal Grants"
 collection: grants
-permalink: /fondi/
+permalink: /grants/fondi/
 ---
 
 ## Functional Ultrasound for Seizure Evaluation: A Multimodal Approach Combining EEG and Computational Modeling  
