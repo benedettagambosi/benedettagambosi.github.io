@@ -5,7 +5,7 @@ category: in-prep-manuscripts          # <-- use a new category key
 permalink: /publication/2026-pd-prod.md
 excerpt: ''
 date: 2026-01-01
-venue: 'Under submission'
-paperurl: ''                   # leave empty if not yet published
+# venue: 'Under submission'
+# paperurl: ''                   # leave empty if not yet published
 citation: 'B. Gambosi, M. Giannelli, C. Tessa, N. Toschi (in prep).'
 ---
