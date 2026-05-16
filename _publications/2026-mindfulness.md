@@ -7,5 +7,5 @@ excerpt: ''
 date: 2026-01-01
 # venue: 'Under submission'
 # paperurl: ''                   # leave empty if not yet published
-citation: 'B. Gambosi*, A. Nakaki*, A. Conti, Y. Gomez, S. Castro-Barquero, I. Casas, M. Genero, L. Youssef, L. Benitez, N. Encabo, A. Martín-Asuero, T. Oller-Guzmán, I. Morilla, A. Martínez-Áran, R. Estruch, E. Vieta, F. Crispi, E. Gratacos, N. Toschi, F. Crovetto (in prep).'
+citation: 'Gambosi*, B., Nakaki*, A., Conti, A., Gomez, Y., Castro-Barquero, S., Casas, I., Genero, M., Youssef, L., Benitez, L., Encabo, N., Martín-Asuero, A., Oller-Guzmán, T., Morilla, I., Martínez-Áran, A., Estruch, R., Vieta, E., Crispi, F., Gratacos, E., Toschi, N., Crovetto F. (2026). Maternal Brain Network Reorganization Induced by Mindfulness Training During Pregnancy. (in prep).'
 ---

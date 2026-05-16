@@ -7,5 +7,5 @@ excerpt: ''
 date: 2026-01-01
 # venue: 'Under submission'
 # paperurl: ''                   # leave empty if not yet published
-citation: 'B. Gambosi, D. Perkidis, J. Meier, A. Geminiani, A. Antonietti, A. Mazzoni, G. Ferrigno, P. Ritter, A. Pedrocchi (in prep).'
+citation: "Gambosi, B., Perkidis, D., Meier, J., Geminiani, A., Antonietti, A., Mazzoni, A., Ferrigno, G., Ritter, P., Pedrocchi A. (2026). Dopamine Depletion Drives Whole-Brain Oscillatory Disruptions via Cortico-Subcortical Resonance: A Multiscale Model of Parkinson's Disease in Mice. (in prep)."
 ---

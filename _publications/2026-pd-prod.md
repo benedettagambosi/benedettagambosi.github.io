@@ -7,5 +7,5 @@ excerpt: ''
 date: 2026-01-01
 # venue: 'Under submission'
 # paperurl: ''                   # leave empty if not yet published
-citation: 'B. Gambosi, M. Giannelli, C. Tessa, N. Toschi (in prep).'
+citation: 'Gambosi, B., Giannelli, M., Tessa, C., Toschi, N. (2026). Structural Connectome Alterations in Prodromal Parkinson’s Disease: A Graph-Theoretical Analysis of the PPMI Cohort. (in prep).'
 ---
