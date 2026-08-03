@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bionegineering, Politecnico di Milano, 2026 (expected)
+* Ph.D in Bionegineering, Politecnico di Milano, 2025
 * M.S. in Biomedical Engineering, Politecnico di Milano, 2021
 * B.S. in Biomedical Engineering, Politecnico di Milano, 2019
 

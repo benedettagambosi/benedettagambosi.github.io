@@ -5,7 +5,7 @@ category: in-prep-manuscripts          # <-- use a new category key
 permalink: /publication/2026-pd-prod.md
 excerpt: ''
 date: 2026-01-01
-# venue: 'Under submission'
+venue: 'In review Human Brain Mapping'
 # paperurl: ''                   # leave empty if not yet published
-citation: 'Gambosi, B., Giannelli, M., Tessa, C., Toschi, N. (2026). Structural Connectome Alterations in Prodromal Parkinson’s Disease: A Graph-Theoretical Analysis of the PPMI Cohort. (in prep).'
+citation: 'Gambosi, B., Giannelli, M., Tessa, C., Toschi, N. (2026). Structural Connectome Alterations in Prodromal Parkinson’s Disease: A Graph-Theoretical Analysis of the PPMI Cohort.'
 ---

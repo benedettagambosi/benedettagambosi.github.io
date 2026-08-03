@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computational neuroscientist with a background in bioengineering, currently working as a research fellow at Sapienza University of Rome, and finishing my PhD at Politecnico di Milano. My research revolves around one central question: how do brain circuits break — and reorganize — in disease? During my doctoral work, I tackled this problem through multiscale computational models of Parkinson’s disease and motor control, focusing on the interplay between basal ganglia, cerebellum, and whole-brain dynamics.
+I am a computational neuroscientist with a PhD in bioengineering from Politecnico di Milano, currently working as a research fellow at Sapienza University of Rome. My research revolves around one central question: how do brain circuits break — and reorganize — in disease? During my doctoral work, I tackled this problem through multiscale computational models of Parkinson’s disease and motor control, focusing on the interplay between basal ganglia, cerebellum, and whole-brain dynamics.
 
 I work at the intersection of mechanistic modeling and data-driven analysis. On the modeling side, I have developed multiscale frameworks to study how dopamine depletion reshapes neural activity, engaging with large-scale modeling and data integration within the eBRAINS ecosystem. In parallel, over the past two years, I have worked hands-on with experimental EEG data at Sapienza, applying network analysis and hyperscanning approaches in both methodological and applied research settings.
 
